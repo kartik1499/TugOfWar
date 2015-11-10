@@ -12,6 +12,7 @@ Sample Input
 100
 90
 200
+
 Output for Sample Input
 
 190 200
